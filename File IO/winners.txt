@@ -1,0 +1,18 @@
+The Lottery Winners are as follows:
+
+Serial No.			 Lottery_no 			Winning Position
+
+----------			 ---------- 			----------------
+
+1                                12825415			First Prize
+
+4                                69651548			Second Prize
+
+7                                46019871			Third Prize
+
+No more prizes...
+
+Try your luck again...
+
+
+Thank you for using this program...
